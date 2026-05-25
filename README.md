@@ -1,4 +1,4 @@
-# ICNACT-2025 Website
+# ICNACT-2026 Website
 
 This is the official website for the **3rd International Conference on Nonlinear Analysis and Computational Techniques (ICNACT-2025)**.
 
